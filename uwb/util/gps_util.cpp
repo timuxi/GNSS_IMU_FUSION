@@ -17,6 +17,7 @@
 using namespace std;
 
 const int gps_data_size = 88;
+
 //得到gps经度
 void GpsUtil::getX(char *chr)
 {
